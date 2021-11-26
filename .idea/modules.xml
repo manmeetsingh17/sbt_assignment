@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actor/Actor.iml" filepath="$PROJECT_DIR$/Actor/Actor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SbtAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/SbtAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SbtAssignment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SbtAssignment-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+    </modules>
+  </component>
+</project>
